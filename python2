@@ -1,0 +1,7 @@
+public class main {
+    public static void main(string[]
+args) {
+        int num = 100;
+        system.out.printIn(charactor);
+    }
+}
